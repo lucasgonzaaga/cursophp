@@ -1,3 +1,5 @@
-# opa, aqui vou deixar listado todos os exercicios do meu curso de php
+# Meu curso php 🙃
 
-## espero de verdade que se surprenda, estou dando meu máximo!
+## Neste repositório vocẽ vera toda a minha evolução na linguagem php (espero 🙄) brincadeiras a parte, espero que fique facilmente perceptivel minha evelução através desse repositório!
+
+### Estou buscando concluir o curso de php pois quero me incluir dentro do mercado back-end, e acredito que php e java sejam os primeiros passos para isso.
